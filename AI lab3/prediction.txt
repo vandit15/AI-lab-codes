@@ -1,0 +1,18 @@
+if	SCONJ
+this	PRON
+is	VERB
+the	DET
+best	ADJ
+that	SCONJ
+tucson	PROPN
+has	AUX
+to	PART
+offer	VERB
+,	PUNCT
+i	PRON
+am	AUX
+out	ADV
+ta	PART
+here	ADV
+...	PUNCT
+
