@@ -18,3 +18,9 @@ For linear regression, learing rate is taken to be 0.001 with 200000 iterations.
 For Logistic regression , learning rate is taken to be 0.015 with 60000 iterations.
 
 
+## LAB-7
+This lab is the application of artificial intelligence in the field of Natural Language Processing. The task is to convert the output from stanford parser(a probabilistic context free grammar,PCFG output) into a dependency tree. Further a naive method has been added for implementation of Paninian Grammar, it describes relation between verb and the objects(nouns/pronouns). 
+
+Script is written in `python2.7`. Specifically it uses `anytree` module to print the dependency tree. Module can be installed using the command `pip install anytree`.
+
+
