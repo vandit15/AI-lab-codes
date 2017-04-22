@@ -1,7 +1,6 @@
 from arff import load
 import pickle
 import sys
-import matplotlib.pyplot as plt
 import numpy as np
 def train():
     file='data1.arff'
@@ -91,14 +90,14 @@ def test():
     list = []
     for i in range(size):
         list.append(thetas[1]*temp1[i] + thetas[0])
-    fig,ax = plt.subplots()
-    ax.plot(temp1,list,color='red')
+    #fig,ax = plt.subplots()
+    #ax.plot(temp1,list,color='red')
     print temp
     temp = np.array(temp)
     temp1 = np.array(temp1)
-    ax.scatter(temp1,temp)
+    #ax.scatter(temp1,temp)
     #plt.plot(temp1,temp)
-    plt.show()
+    #plt.show()
 
 arg = sys.argv[1]
 if arg == "-train":

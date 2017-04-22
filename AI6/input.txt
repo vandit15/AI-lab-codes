@@ -1,0 +1,9 @@
+(ROOT
+  (S
+    (NP (DT The) (NN child))
+    (VP (VBD slept))))
+
+det(child-2, The-1)
+nsubj(slept-3, child-2)
+root(ROOT-0, slept-3)
+

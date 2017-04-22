@@ -1,0 +1,1 @@
+(ROOT (S (NP (NNP Ramesh)) (VP (VBD ate) (NP (DT a) (JJ red) (NN apple))) (. .)))

@@ -1,0 +1,8 @@
+(ROOT
+  (S
+    (NP (DT The) (JJ quick) (CD brown) (NNS fox))
+    (VP (VBD jumped)
+      (PP (IN over)
+        (NP (DT the) (JJ lazy) (NN dog))))
+    (. .)))
+

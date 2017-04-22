@@ -1,0 +1,14 @@
+(ROOT
+  (S
+    (NP
+      (NP (DT The) (NN man))
+      (PP (IN with)
+        (NP (DT the) (JJ white) (NN turban))))
+    (VP (VBD gave)
+      (NP (NN blood))
+      (PP (TO to)
+        (NP
+          (NP (DT the) (NN patient))
+          (PP (IN in)
+            (NP (DT the) (NN hospital))))))
+    (. .)))
